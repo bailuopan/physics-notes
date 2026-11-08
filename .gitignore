@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.pylibs/
+.tmp/
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+*.log
